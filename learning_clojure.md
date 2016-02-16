@@ -1,7 +1,3 @@
-
-Koans get you a fairly long way
-
-
 [Clojure for the brave and true](http://www.braveclojure.com/) is a book that
 is good for people with some programming experience: starts with setting up Emacs. It is available to read for
 [free online](http://www.braveclojure.com/introduction/). The tone is light and fun
