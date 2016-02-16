@@ -13,3 +13,6 @@
 # Videos
 
 -[Lispcast Introduction to Clojure](http://www.purelyfunctional.tv/intro-to-clojure) 
+
+# Getting help
+If you want some specific questions answered and have a slack account why not join [clojurians.net](http://clojurians.net)
