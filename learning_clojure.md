@@ -7,9 +7,9 @@
 - [Clojure Cookbook](http://clojure-cookbook.com/): good for users who already know clojure and want to learn more advanced techniques.
 - [Functional Programming for the Object Oriented Programmer](https://leanpub.com/fp-oo)
 - [Clojure Cookbook](http://clojure-cookbook.com/) is full of real-world examples that you can copy but that doesn''t make it good resource for learning the language from scratch.
-[Clojure in action](https://www.manning.com/books/clojure-in-action) starts fine but gets pretty macro heavy very quickly. Perhaps best if you already know something about FP.
+- [Clojure in action](https://www.manning.com/books/clojure-in-action) starts fine but gets pretty macro heavy very quickly. Perhaps best if you already know something about FP.
 
-[ClojureBridge](http://www.clojurebridge.org/) events are aimed at increasing participation by people from under-represented groups. However, the [curriculum and resources are available for free GitHub](https://github.com/ClojureBridge/curriculum).
+[ClojureBridge](http://www.clojurebridge.org/) events are aimed at increasing participation by people from under-represented groups. However, the [curriculum and resources are available for free on GitHub](https://github.com/ClojureBridge/curriculum).
 
 #Tool Up!
 
@@ -18,7 +18,7 @@
 
 # Videos
 
--[Lispcast Introduction to Clojure](http://www.purelyfunctional.tv/intro-to-clojure) 
+- [Lispcast Introduction to Clojure](http://www.purelyfunctional.tv/intro-to-clojure) 
 
 ## Apps
 There is a REPL-app for [android](https://play.google.com/store/apps/details?id=com.sattvik.clojure_repl&hl=en_GB) so you can code on the bus.
