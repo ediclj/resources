@@ -9,3 +9,7 @@
 
 [Getting a "nice" Emacs setup](https://github.com/overtone/emacs-live)
 [Getting Emacs + Paredit + iTerm2 to work OSX](http://offbytwo.com/2012/01/15/emacs-plus-paredit-under-terminal.html) I would also goto your OSX Keyboard shortcuts and un-tick all the keyboard shortcuts and under iTerm Preferences -> Keys delete all the shortcuts 
+
+# Videos
+
+-[Lispcast Introduction to Clojure](http://www.purelyfunctional.tv/intro-to-clojure) 
