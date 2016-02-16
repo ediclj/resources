@@ -4,6 +4,7 @@
 - [Programming Clojure](https://pragprog.com/book/shcloj2/programming-clojure): excellent general guide to clojure, presumes some programming experience.
 - [Clojure Cookbook](http://clojure-cookbook.com/): good for users who already know clojure and want to learn more advanced techniques.
 - [Functional Programming for the Object Oriented Programmer](https://leanpub.com/fp-oo)
+- [Living Clojure](http://shop.oreilly.com/product/0636920034292.do) - for experienced programmers new to Clojure
 
 #Tool Up!
 
